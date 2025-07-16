@@ -32,7 +32,11 @@ Displays appointments in a clear table format
 Prevents duplicate IDs
 
 📁 Clinic-Management-System
+
 ├── 📄 main.c            → Main program logic
+
 ├── 📄 Functions.c       → Core functions (add/edit/view patients)
+
 ├── 📄 header.h          → Definitions & structures
+
 └── 📄 patients.txt      → Auto-generated patient records
