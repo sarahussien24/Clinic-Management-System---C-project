@@ -4,6 +4,7 @@ Clinic Management System - C Project
 This Clinic Management System is a console-based application built in C that helps manage patient records and appointment scheduling efficiently. It features two access modes (Admin & User) with proper authentication and data management.
 
 ✨ Features
+
 ✅ Admin Mode (Password Protected - Default: 1234)
 Add new patients
 Edit patient details
